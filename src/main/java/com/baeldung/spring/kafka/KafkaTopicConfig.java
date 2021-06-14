@@ -55,4 +55,3 @@ public class KafkaTopicConfig {
         return new NewTopic(greetingTopicName, 1, (short) 1);
     }
 }
- 
