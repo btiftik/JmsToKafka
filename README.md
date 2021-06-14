@@ -9,6 +9,8 @@ This module contains articles about Spring with Kafka
 
 ### Intro
 
+How to do it in windows: https://www.geeksforgeeks.org/how-to-install-and-run-apache-kafka-on-windows/
+
 This is a simple Spring Boot app to demonstrate sending and receiving of messages in Kafka using spring-kafka.
 
 As Kafka topics are not created automatically by default, this application requires that you create the following topics manually.
